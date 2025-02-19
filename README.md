@@ -2,27 +2,26 @@
 
 ![full_logo_open_len](https://github.com/user-attachments/assets/6f1274e1-9f8d-484c-acbf-379dd97be285)
 
+**Open LEN** is a modular Discord bot featuring built-in artificial intelligence, moderation tools, and interactive features. Designed to enhance community interaction and automate administrative tasks.
 
-**Open LEN** - це модульний Discord-бот із вбудованим штучним інтелектом, системою модерації та інтерактивними можливостями. Бот створений для покращення взаємодії в спільноті та автоматизації адміністративних завдань.
+## Key Features
+- 🔹 **Artificial Intelligence** – Responds to messages, analyzes context, and personalizes interactions.
+- 🔹 **Moderation** – Automatic spam restrictions, profanity filtering, and mention control.
+- 🔹 **Games & Interactive Features** – Quizzes, quests, and personalized recommendations.
 
-## Основні можливості
-- 🔹 **Штучний інтелект** – відповідає на повідомлення, аналізує контекст і персоналізується під користувача.
-- 🔹 **Модерація** – автоматичні обмеження за спамом, фільтрація нецензурної лексики та контроль згадувань.
-- 🔹 **Ігри та інтерактив** – вікторини, квести та персоналізовані рекомендації.
-
-## Встановлення
-### Передумови
+## Installation
+### Prerequisites
 - Python 3.10+
-- Токен Discord бота
+- Discord bot token
 
-### Запуск
+### Launch
 ```bash
 pip install -r requirements.txt --upgrade
 python main.py --prod
 ```
 
-## Налаштування
-Перед запуском відредагуйте файл `.env`:
+## Configuration
+Before running, edit the `.env` file:
 ```ini
 DEBUG_MODE=false
 
@@ -33,19 +32,18 @@ DISCORD_TOKEN=TOKEN
 MISTRAL_API_KEY=TOKEN
 ```
 
-## Використання
-Приклади команд:
+## Usage
+Example commands:
 ```bash
-!"Напиши вірш про технології"
-!порушення @User "Флуд"
-!налаштування
+!"Hi, LEN"
+!violation @User "Spam"
+!settings
 ```
 
-## Ліцензія
-Проєкт розповсюджується за ліцензією MIT.
+## License
+This project is distributed under the MIT license.
 
 ---
 
-> ⚡ Open LEN розвивається! Будемо раді вашим ідеям та контриб’юції!
-> Очікуйте реліз відкритого коду бота скоро.
-
+> ⚡ Open LEN is evolving! We welcome your ideas and contributions!  
+> The bot's open-source release is coming soon.
