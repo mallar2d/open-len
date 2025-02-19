@@ -1,4 +1,4 @@
-# Open LEN
+# Open LEN (In Development)
 
 ![full_logo_open_len](https://github.com/user-attachments/assets/6f1274e1-9f8d-484c-acbf-379dd97be285)
 
