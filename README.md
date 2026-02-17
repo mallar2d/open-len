@@ -1,8 +1,8 @@
-# Open LEN (In Development)
+# OpenLEN
 
-![full_logo_open_len](https://github.com/user-attachments/assets/6f1274e1-9f8d-484c-acbf-379dd97be285)
+![full super cool_logo_openlen](https://github.com/user-attachments/assets/6f1274e1-9f8d-484c-acbf-379dd97be285)
 
-**Open LEN** is a modular Discord bot featuring built-in artificial intelligence, moderation tools, and interactive features. Designed to enhance community interaction and automate administrative tasks.
+**OpenLEN** is a modular Discord bot featuring built-in artificial intelligence, moderation tools, and interactive features. Designed to enhance community interaction and automate administrative tasks.
 
 ## Key Features
 - 🔹 **Artificial Intelligence** – Responds to messages, analyzes context, and personalizes interactions.
@@ -45,5 +45,5 @@ This project is distributed under the MIT license.
 
 ---
 
-> ⚡ Open LEN is evolving! We welcome your ideas and contributions!  
+> ⚡ OpenLEN is evolving! We welcome your ideas and contributions!  
 > The bot's open-source release is coming soon.
